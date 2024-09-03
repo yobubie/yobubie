@@ -8,6 +8,6 @@
 <br/>
 🧑🏻‍💻 Technical Proficiencies:<br/>
     • Programming Language: SQL, Python (Numpy, Pandas, Matplotlib)<br/>
-    • Business Intelligence & Data Visualization: Metabase, Snowflake, Jupyter, Tableau, MS Excel, MS Powerpoint, Google Looker Studio<br/>
+    • Softwares: Metabase, Snowflake, Tableau, MS Excel, MS Powerpoint, Google Looker Studio<br/>
     • Product & Marketing Analytics: Amplitude, Appsflyer, Google Analytics, Braze<br/>
     • Collaborative: Jira, Confluence, Figma<br/>
